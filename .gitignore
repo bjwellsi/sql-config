@@ -1,0 +1,17 @@
+# Ignore all connection secrets
+connections/*.env
+
+# OS & editor clutter
+.DS_Store
+*.swp
+*.swo
+*.tmp
+*.bak
+
+# Neovim backup files
+*.un~
+*~
+
+# Logs or output captures (optional)
+*.log
+*.out
